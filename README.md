@@ -1,0 +1,2 @@
+# squadfree
+Free template
